@@ -10,6 +10,8 @@ import VideoWork from "./components/VideoWork";
 import NextProject from "./components/NextProject";
 import Footer from "./components/Footer";
 
+import { SpeedInsights } from "@vercel/speed-insights/react"
+
 function App() {
   return (
     <div className="App bg-[#F6F4F2] ">
