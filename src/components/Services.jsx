@@ -13,7 +13,7 @@ function Services() {
         <div className='w-full h-full  lg:p-10 flex flex-col items-center'>
         <h1 className='font-["Basis_Grotesque_Pro"] text-black font-bold tracking-[.3em] sm:text-center mb-10 lg:text-sm text-xs'>SERVICES</h1>
         <h1 className='font-["Basis_Grotesque_Pro"] text-black font-bold tracking-wide  text-3xl mb-3 text-center px-11 '>WE HAVE BEEN DESIGNING YOUR INTERIORS</h1>
-        <h1 className='font-["Basis_Grotesque_Pro"] text-[#C19A5B] italic font-bold tracking-wide lg:text-2xl text-xl '> - SINCE 2010 - </h1>
+        <h1 className='font-["Basis_Grotesque_Pro"] text-[#C19A5B] italic font-bold tracking-wide lg:text-2xl text-xl '> - SINCE 2018 - </h1>
         <div className='work-folio flex lg:flex-row flex-col  h-full w-full mt-10 lg:p-3 gap-10  px-6 '>
             <Workcard title={'Renovation'} img={img} />
             <Workcard title={'New Construction'} img={img3}/>

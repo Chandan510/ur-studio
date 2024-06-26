@@ -10,7 +10,6 @@ import VideoWork from "./components/VideoWork";
 import NextProject from "./components/NextProject";
 import Footer from "./components/Footer";
 
-import { SpeedInsights } from "@vercel/speed-insights/react"
 
 function App() {
   return (

@@ -36,7 +36,7 @@ function Footer() {
               Contact
             </h1>
             <h2>Mobile: +91-9429****45</h2>
-            <h2>Email: chandansuthar@gmail.com</h2>
+            <h2>Email: chandansuthar510@gmail.com</h2>
             <h2 className="mt-2 leading-6">
               Address: Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Eaque repellat odit fuga?
